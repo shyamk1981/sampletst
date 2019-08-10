@@ -7,6 +7,5 @@ class HelloWorld
 	public static void main(String args[]) 
 	{ 
 		System.out.println(Hello, World in future branch); 
-		System.out.println(welcome to merge confilt);
 	} 
 } 
